@@ -1,3 +1,3 @@
-NAME:   Abdul Ahad 
-DEGREE: Bachelors in Data Science
-HOBBY:  History
+**NAME:    Abdul Ahad
+**PROGRAM: Data Science
+**HOBBY:   History
